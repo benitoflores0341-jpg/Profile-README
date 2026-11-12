@@ -2,7 +2,7 @@
 # 👋 Hola, soy Benito Daniel Flores Rodriguez.
 Estudiante de Ingenieria en Informatica en el Centro Universitario de Tlaquepaque __"CUTLAQUEPAQUE"__ en la Universidad de Guadalajara.\
 Vivo en Tlaquepaque Jalisco Mexico.
-Tengo experiencia en: __c++_ , __c_ , __c_ , __python_ , __java_ , __javascrypt_ , __html_ , __css_ , __dart_ , __flutter_ , __react_ y __node_.
+Tengo experiencia en: _c++_ , _c_ , _c_ , _python_ , _java_ , _javascrypt_ , _html_ , _css_ , _dart_ , _flutter_ , _react_ y _node_.
 
 ## 🚀 Proyectos destacados.
 ### UDG-Market.
